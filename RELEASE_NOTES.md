@@ -1,5 +1,38 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.1.9](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.9)
+
+September 26, 2025
+
+### Additions
+
+- `webextensions.api.sidePanel` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.getLayout` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.getOptions` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.getPanelBehavior` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.GetPanelOptions` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.onOpened` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.open` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.OpenOptions` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.PanelBehavior` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.PanelLayout` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.PanelOpenedInfo` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.PanelOptions` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.setOptions` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.setPanelBehavior` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.Side` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.api.sidePanel.SidePanel` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.manifest.permissions.sidePanel` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.manifest.side_panel` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+- `webextensions.manifest.side_panel.default_path` ([#27905](https://github.com/mdn/browser-compat-data/pull/27905))
+
+### Statistics
+
+- 2 contributors have changed 3 files with 374 additions and 0 deletions in 1 commit ([`v7.1.8...v7.1.9`](https://github.com/mdn/browser-compat-data/compare/v7.1.8...v7.1.9))
+- 17,878 total features
+- 1,197 total contributors
+- 5,425 total stargazers
+
 ## [v7.1.8](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.8)
 
 September 26, 2025
