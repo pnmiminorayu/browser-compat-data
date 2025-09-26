@@ -95,7 +95,7 @@ const bcd = await fetch('https://unpkg.com/@mdn/browser-compat-data').then(
 ### Other Languages
 
 You can obtain the raw compatibility data for `@mdn/browser-compat-data` using a CDN and loading the `data.json` file included in releases.
-
+#27874
 ```
 https://unpkg.com/@mdn/browser-compat-data/data.json
 ```
@@ -153,7 +153,7 @@ Data for [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) features, inclu
 
 ### [`html`](html)
 
-Data for [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) features, including:
+Data for [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) features, including:Control + Shift + m 
 
 - `elements` - Elements
 - `global_attributes` - Global attributes
