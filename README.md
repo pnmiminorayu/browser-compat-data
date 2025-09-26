@@ -153,7 +153,7 @@ Data for [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) features, inclu
 
 ### [`html`](html)
 
-Data for [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) features, including:
+Data for [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) features, including:HTMLInputElement.webkitdirectory
 
 - `elements` - Elements
 - `global_attributes` - Global attributes
